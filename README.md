@@ -4,7 +4,7 @@
 
 ## Preview
 
-[![elite Preview](./img.preview.png)](./img.preview.png?raw=true "Title")
+[![elite Preview](https://ibb.co/HNQJbpq)](https://ibb.co/HNQJbpq)
 
 **[View Live Preview](https://codename-commit.github.io/Project_Two/)**
 
